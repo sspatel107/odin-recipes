@@ -12,3 +12,17 @@ A simple multi-page static recipe website with:
 - Headings, lists (ordered + unordered), links, and images
 - Organizing files/folders in a small project
 - Git + GitHub workflow (commit early & often)
+
+## Project Structure
+odin-recipes/
+├── index.html
+├── README.md
+└── recipes/
+    ├── butter-chicken.html
+    ├── idli-sambar.html
+    └── aloo-paratha.html    
+
+## Why this structure?
+- index.html lives in the root (easy to open).
+- All recipe pages go inside the recipes/ folder.
+- Relative links will work nicely.
