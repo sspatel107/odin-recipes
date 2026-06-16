@@ -4,6 +4,8 @@ A simple, multi-page static recipe website built as **Project: Recipes** from
 [The Odin Project](https://www.theodinproject.com/) Foundations course. It
 showcases a small collection of popular Indian recipes.
 
+**Live demo:** [sspatel107.github.io/odin-recipes](https://sspatel107.github.io/odin-recipes)
+
 ## Features
 
 - A home page (`index.html`) that lists every recipe with a thumbnail image and links to its page.
@@ -52,3 +54,4 @@ No build step or dependencies are required — it is plain HTML.
 1. Clone or download this repository.
 2. Open `index.html` in any web browser.
 3. Click a recipe to view its page, and use the "Back to Home" link to return.
+
