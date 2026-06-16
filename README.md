@@ -26,3 +26,4 @@ odin-recipes/
 - index.html lives in the root (easy to open).
 - All recipe pages go inside the recipes/ folder.
 - Relative links will work nicely.
+
